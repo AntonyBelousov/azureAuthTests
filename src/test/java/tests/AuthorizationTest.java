@@ -25,7 +25,7 @@ class AuthorizationTest {
     void set() {
         loginPage = new LoginPage();
         loginPage.openLoginPage();
-        SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
+        SelenideLogger.addListener("allure", new AllureSelenide());
     }
 
     @AfterEach
