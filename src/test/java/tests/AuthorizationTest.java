@@ -13,14 +13,6 @@ import java.util.stream.Stream;
 import static com.codeborne.selenide.Selenide.$;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-//   Автоматизировать проверку авторизации на сайте с помощью фреймворка Selenide (Java)
-//        Входные данные:
-//        https://ilswebreact-develop.azurewebsites.net/
-//        Логин: rekame2869@seinfaq.com
-//        Пароль: XRCa91zn4fsJzcHW
-//        Результат выложить в репозиторий и скинуть ссылку
-
-
 @DisplayName("Проверка авторизации")
 @Tag("auth")
 class AuthorizationTest {
