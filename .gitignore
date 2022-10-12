@@ -11,6 +11,10 @@ out/
 *.iml
 *.ipr
 
+.allure
+/*/allure-results/
+out
+
 ### Java ###
 *.class
 *.log
