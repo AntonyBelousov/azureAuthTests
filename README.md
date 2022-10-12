@@ -4,3 +4,6 @@
 - UКL: https://ilswebreact-develop.azurewebsites.net/
 - Логин: rekame2869@seinfaq.com
 - Пароль: XRCa91zn4fsJzcHW
+
+Запуск тестов: ./gradlew clean test
+
